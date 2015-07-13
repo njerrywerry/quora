@@ -4,3 +4,11 @@ background: url(bkgrnd.png);
 background-position: center;
 /*background-size: contain;*/
 }
+
+#google {
+padding-bottom: 20px;
+}
+
+#facebook {
+padding-bottom: 20px;
+}
